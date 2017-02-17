@@ -231,7 +231,7 @@ arrays (and matrices), incrementing the row number moves *down* (the first row
 is row 0, the second row is row 1, etc.).
 
 So in Cartesian coordinates, `(2, 3)` would represent the letter 'b', but in
-2D arrays, `[2][3]` would represent the letter 'g'.
+2D arrays, `[2][3]` would represent the letter 'l'.
 
 What do you need to do?
 =======================
