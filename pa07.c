@@ -31,6 +31,7 @@ int main(int argc, char ** argv) {
 	
 	//Clean up memory
 	freeMaze(m);
+	free(m);
 	free(path);
 	
 	return EXIT_SUCCESS;
