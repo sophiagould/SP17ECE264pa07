@@ -99,7 +99,7 @@ bool checkPath(Maze * m, char * path) {
 				m -> maze[hor][ver].visited = true;
 			}
 			else{
-				return;
+				return false;
 			}
 		}
 		x++;
