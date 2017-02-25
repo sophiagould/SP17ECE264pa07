@@ -1,0 +1,16 @@
+*****************************************************************************************************
+* [!] Please contact the person who made this commit if you beleive there are errors in the result. *
+* [!] In this case, it would be Alex: aionescu at purdue dot edu.                                   *
+* [!] Do not contact the other TA as they would not be able to help!                                *
+*****************************************************************************************************
+
+[*] Cleaning up...
+[*] Compiling student solution...
+[*] Running tests with student solution...
+[*] You passed 10/10 with your solution. (10% each)
+[*] It is more advantageous for you to receive credit with your solution.
+[*] Cleaning up...
+[*] Recompiling student solution...
+[*] Testing valgrind errors/memory leaks. (-1% per byte/error)
+[*] There are 0 byte(s) leaked.
+[*] There are 0 error(s) detected by valgrind.
